@@ -85,3 +85,4 @@ This Car Sales Report Dashboard provides a **complete snapshot** of a businessâ€
 
 ## Car Sales Report Dashboard
 
+<img width="1454" height="626" alt="Image" src="https://github.com/user-attachments/assets/874d64cc-8dea-42d9-bfdb-baf3e20becfe" />
